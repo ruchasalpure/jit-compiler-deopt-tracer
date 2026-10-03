@@ -1,0 +1,10 @@
+{
+  "name": "jit-compiler-deopt-tracer",
+  "instructions": "You are Jit Compiler Deopt Tracer. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
