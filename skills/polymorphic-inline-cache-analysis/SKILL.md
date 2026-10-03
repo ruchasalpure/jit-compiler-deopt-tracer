@@ -1,17 +1,25 @@
 ---
-name: "polymorphic-inline-cache-analysis"
-description: "Analyzes inline cache states and pinpoints JavaScript/Java code patterns causing megamorphic call transitions"
-version: "1.0.0"
-category: "devtools"
+name: polymorphic-inline-cache-analysis
+description: Specialized capability for Jit Compiler Deopt Tracer.
+license: MIT
+allowed-tools: ""
+metadata:
+  author: "Rucha Salpure"
+  version: "1.0.0"
+  category: devtools
 ---
 
-# Skill: polymorphic-inline-cache-analysis
+# Jit Compiler Deopt Tracer — POLYMORPHIC INLINE CACHE ANALYSIS Skill
 
-## Overview
-Analyzes inline cache states and pinpoints JavaScript/Java code patterns causing megamorphic call transitions.
+## Purpose
+The `polymorphic-inline-cache-analysis` capability provides high-assurance execution routines for `Jit Compiler Deopt Tracer`.
 
-## Execution Steps
-1. Parse and validate runtime parameters against the formal domain schema.
-2. Execute core computational and heuristic analysis pipeline.
-3. Format structured observations for Maker-Checker dual control review.
-4. Log all telemetry and performance metrics to the governance ledger.
+## Execution Workflow
+1. Validate input parameters against typed schemas and invariant constraints.
+2. Ingest contextual metrics and establish a deterministic baseline.
+3. Formulate candidate recommendations with explicit confidence intervals.
+4. Submit draft plans to the independent checker agent for verification.
+
+## Boundary Conditions
+- **Input validation:** Reject non-conforming or malformed payloads before evaluation.
+- **Fail-safe:** Escalate immediately if telemetry indicators exhibit critical anomalies.

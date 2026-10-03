@@ -1,6 +1,0 @@
-app:
-  name: "jit-compiler-deopt-tracer"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

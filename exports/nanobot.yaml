@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: jit-compiler-deopt-tracer
-runtime: python3.11
-entrypoint: agent.py

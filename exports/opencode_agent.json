@@ -1,8 +1,0 @@
-{
-  "agent_id": "jit-compiler-deopt-tracer",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
